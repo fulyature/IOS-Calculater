@@ -65,8 +65,10 @@ body {
   border-radius: 55px;
   grid-column: 1 / span 2;
   justify-content: flex-start;
-  padding-left: 43px;
   width: 215px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .operator {
   color: white;
